@@ -1,13 +1,8 @@
 ---
-title: Todo app demo
+#Todo app demo
 tags: React,ES6,webpack
 ---
 
-Item     | Value
--------- | ---
-Computer | $1600
-Phone    | $12
-Pipe     | $1
 
 
 
