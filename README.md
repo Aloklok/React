@@ -1,9 +1,8 @@
-# react
-###tag: Immutability,Redux
+# React
+#### tag: Immutability,Redux
 
 ---
-###learning process
-
+# Learning process
 
 #### Some really helpful articles:
 * **Immutability:**
@@ -12,4 +11,4 @@
 * **with ES6:**
   * [why-and-how-to-bind-methods-in-your-react-component-classes](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)
 
-####to be continued
+#### to be continued
