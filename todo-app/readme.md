@@ -1,4 +1,4 @@
-#Todo app demo
+#Simple Todo app demo
 ###tags: React,ES6,webpack,loadash
 
 display:[Aloklok.github.io/react/todo-app/](http://Aloklok.github.io/react/todo-app/)
