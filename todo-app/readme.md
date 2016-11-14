@@ -1,12 +1,8 @@
----
 #Todo app demo
-tags: React,ES6,webpack
 ---
+tags: React,ES6,webpack,loadash
 
-
-
-
-Aloklok.github.io/react/todo-app/
+display: Aloklok.github.io/react/todo-app/
 # Features
 1. **Edit and delete task**
 1. **If task is not finished yet,task section will be displayed in red color,otherwise  in green.Click the section to toggle states.**
