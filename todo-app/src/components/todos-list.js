@@ -4,13 +4,12 @@ import TodosListHeader from './todos-list-header';
 import TodosListItems from './todos-list-items';
 
 export default class TodosList extends React.Component{
+	//pass out all the props from class App to class TodosListItems 
 	renderItems(){
 		const props = _.omit(this.props,'todos');
-
-		return _.map(
-			this.props.todos,(todo,index)=>
-			<TodosListItems key={index}  {...todo} {...props}/> 
-				); 
+		return _.map(this.props.todos,
+					(todo,index) => <TodosListItems key={index}  {...todo} {...props}/> 
+		); 
 	}
 
 

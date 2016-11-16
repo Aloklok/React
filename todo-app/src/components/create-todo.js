@@ -20,6 +20,7 @@ export default class CreateTodo extends React.Component{
 			this.setState({error:validateInput});
 			return ;
 		}
+		
 		this.setState({error:null});
 		this.props.createTask(task);
 		this.refs.createInput.value = '';
@@ -32,10 +33,10 @@ export default class CreateTodo extends React.Component{
 			return 'Task already exist';
 		} else {
 			return null;
+
 		}
 
 	}
-
 	renderError(){
 		if(!this.state.error){return (<div><br/></div>)}
 		return <div style={{color:'red'}}>{this.state.error} </div>
