@@ -10,5 +10,6 @@
   * [a-brief-talk-about-immutability-and-react-s-helpers](https://medium.com/pro-react/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c#.cv006moyu) Using react-addons to avoid mutating the states.
 * **with ES6:**
   * [why-and-how-to-bind-methods-in-your-react-component-classes](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)
-
+* **with redux**
+ *  [Async Actions](http://redux.js.org/docs/advanced/AsyncActions.html)
 #### to be continued
