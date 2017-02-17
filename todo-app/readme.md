@@ -1,8 +1,8 @@
 #Simple Todo app demo
 ####tags: React,ES6,webpack,loadash
 
-####display:[Aloklok.github.io/react/todo-app/](http://Aloklok.github.io/react/todo-app/)
+####展示:[Aloklok.github.io/react/todo-app/](http://Aloklok.github.io/react/todo-app/)
 # Features
-1. **Edit and delete task**
-1. **If task is not finished yet,task section will be displayed in red color,otherwise  in green.Click the section to toggle states.**
-1. **Task validation:empty task or existed task are not allowed to create.**
+1. **编辑和删除任务**
+1. **如果任务没有完成，任务将显示为红色，否则为绿色**
+1. **验证：不可创建空任务或重复任务**
