@@ -17,5 +17,5 @@
 更多 : [smart-and-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.b74468pn0)
 
 1. 使用[react-router](https://github.com/ReactTraining/react-router) 来使UI和和URL同步，因为组件需要URL参数来处理data
-使用[react-router-redux](https://github.com/reactjs/react-router-redux) 来复制当前URL位置，并隐藏在state中，因此能够在容器组件中fetch到URL。
+使用[react-router-redux](https://github.com/reactjs/react-router-redux) 来复制当前URL位置，并隐藏在state中，使得容器组件能够fetch到URL。
 1. 使用 [express](http://expressjs.com/)作为服务器 
